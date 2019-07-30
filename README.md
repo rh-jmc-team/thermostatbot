@@ -5,7 +5,7 @@ IRC Bot for Red Hat's Thermostat/JMC team
 
 Clone repo:
 ```bash
-git clone https://github.com/salmanfs815/thermostatbot.git
+git clone https://pagure.io/thermostatbot.git
 cd thermostatbot
 ```  
 
